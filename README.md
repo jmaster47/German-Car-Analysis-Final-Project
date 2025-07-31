@@ -1,15 +1,26 @@
-# German Car Analysis Final Project
- This repository contains a comprehensive analysis of German car purchase data aimed at uncovering trends and insights within the automotive market in Germany. Utilizing a robust dataset, this project explores various aspects of car purchases, including fuel efficiency, pricing, power metrics, and consumer preferences for transmission types.
+# German Car Purchase Data Analysis 🚗
 
-Files:
-Final_Project.ipynb:
-Jupytr Notebook file that analyzes the dataset and produces visualizations and information to analyze from the data set
+This project analyzes trends in German car sales using a dataset from Kaggle. The goal is to uncover insights for consumers, dealerships, and manufacturers related to fuel efficiency, pricing, and performance.
 
-gcar_data.csv:
-The data set to be analyzed and cleaned taken from Kaggle.com https://www.kaggle.com/datasets/yaminh/german-car-insights
+## Questions Explored
+- Do manual or automatic cars have better fuel economy?
+- Which fuel types are most efficient and powerful?
+- How does mileage impact car price?
+- Is there a correlation between horsepower and price?
 
-Summary of German Car Data Analysis.docx: 
-Summary of the project and findings discovered through the project
+## Key Insights
+- Manual cars are more fuel-efficient on average.
+- Electric and ethanol-fueled cars offer high power and low fuel consumption.
+- Cars with lower mileage are significantly more expensive.
+- Horsepower and price show a strong positive correlation.
 
-German Car Data Presentation.pptx:
-Presentation for the data discovered in a power point slide format.
+## Tools Used
+- Python (`pandas`, `matplotlib`, `seaborn`)
+- Jupyter Notebook
+- Data from Kaggle: German Car Insights Dataset
+
+## Files
+- `Final_Project.ipynb`: Main analysis notebook with cleaning, EDA, and plots
+- `gcar_data.csv`: Cleaned dataset
+- `German Car Purchase Data Analysis.pptx`: Presentation slides
+- `Summary of German Car Data Analysis.docx`: Written summary of findings
