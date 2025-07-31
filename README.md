@@ -1,4 +1,4 @@
-# German Car Purchase Data Analysis 🚗
+# German Car Purchase Data Analysis
 
 This project analyzes trends in German car sales using a dataset from Kaggle. The goal is to uncover insights for consumers, dealerships, and manufacturers related to fuel efficiency, pricing, and performance.
 
